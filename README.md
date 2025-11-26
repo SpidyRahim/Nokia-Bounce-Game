@@ -9,7 +9,7 @@ A faithful recreation of the classic Nokia Bounce game built with vanilla HTML5,
 
 ## 🎮 Play Now
 
-Simply open `index.html` in your browser or [play the live demo here](#).
+Simply open `index.html` in your browser.
 
 
 ## ✨ Features
@@ -179,7 +179,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ```
 MIT License
 
-Copyright (c) 2024 [Md. Rahim]
+Copyright (c) 2025 [Md. Rahim]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -198,7 +198,7 @@ furnished to do so, subject to the following conditions:
 
 ## 📬 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/SpidyRahim)
+Your Name - [@SpidyRahim](https://twitter.com/SpidyRahim)
 
 Project Link: [https://github.com/SpidyRahim/Nokia-Bounce-Game.git](https://github.com/SpidyRahim/Nokia-Bounce-Game.git)
 
