@@ -11,12 +11,6 @@ A faithful recreation of the classic Nokia Bounce game built with vanilla HTML5,
 
 Simply open `index.html` in your browser or [play the live demo here](#).
 
-## 📸 Screenshots
-
-```
-<img width="1030" height="777" alt="image" src="https://github.com/user-attachments/assets/231b8d1d-a937-4560-af2f-db6e198684fb" />
-
-```
 
 ## ✨ Features
 
@@ -65,7 +59,7 @@ Touch controls appear automatically on mobile devices:
 
 1. Download or clone this repository
    ```bash
-   git clone https://github.com/yourusername/bounce-game.git
+   git clone https://github.com/SpidyRahim/Nokia-Bounce-Game.git
    ```
 
 2. Open `index.html` in your web browser
@@ -185,7 +179,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ```
 MIT License
 
-Copyright (c) 2024 [Your Name]
+Copyright (c) 2024 [Md. Rahim]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -204,9 +198,9 @@ furnished to do so, subject to the following conditions:
 
 ## 📬 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Your Name - [@yourtwitter](https://twitter.com/SpidyRahim)
 
-Project Link: [https://github.com/yourusername/bounce-game](https://github.com/yourusername/bounce-game)
+Project Link: [https://github.com/SpidyRahim/Nokia-Bounce-Game.git](https://github.com/SpidyRahim/Nokia-Bounce-Game.git)
 
 ---
 
